@@ -3,8 +3,7 @@
     "description": "Dividebuy Order",
     "license": "MIT",
     "require": {
-        "php": ">=7.4.0",
-        "dividebuym2/module-payment": ">=1.0.0"
+        "php": ">=7.4.0"
     },
     "type": "magento2-module",
     "version": "1.0.0",
